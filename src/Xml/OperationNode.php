@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Xml;
+namespace EnoWsdl2PhpGenerator\Xml;
 
 /**
  * An XML node which represents an operation to be executed through a SOAP service.

@@ -2,7 +2,7 @@
 /**
  * @package phpSource
  */
-namespace Wsdl2PhpGenerator\PhpSource;
+namespace EnoWsdl2PhpGenerator\PhpSource;
 
 /**
  * Class that represents the source code for a variable in php

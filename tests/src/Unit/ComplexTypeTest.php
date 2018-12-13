@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Tests\Unit;
+namespace EnoWsdl2PhpGenerator\Tests\Unit;
 
 
-use Wsdl2PhpGenerator\ComplexType;
-use Wsdl2PhpGenerator\Config;
+use EnoWsdl2PhpGenerator\ComplexType;
+use EnoWsdl2PhpGenerator\Config;
 
 /**
  * Unit test for the ComplexType class.

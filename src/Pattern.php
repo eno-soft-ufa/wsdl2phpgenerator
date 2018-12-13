@@ -2,7 +2,7 @@
 /**
  * @package Wsdl2PhpGenerator
  */
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 use \Exception;
 

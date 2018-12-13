@@ -2,7 +2,7 @@
 /**
  * @package Wsdl2PhpGenerator
  */
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 /**
  * Class that contains functionality to validate a string as valid php

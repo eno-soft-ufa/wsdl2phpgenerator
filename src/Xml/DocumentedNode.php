@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Xml;
+namespace EnoWsdl2PhpGenerator\Xml;
 
 /**
  * An XmlNode which contains documentation of itself.

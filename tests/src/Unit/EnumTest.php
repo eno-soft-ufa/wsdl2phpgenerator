@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Tests\Unit;
+namespace EnoWsdl2PhpGenerator\Tests\Unit;
 
 
-use Wsdl2PhpGenerator\Config;
-use Wsdl2PhpGenerator\Enum;
+use EnoWsdl2PhpGenerator\Config;
+use EnoWsdl2PhpGenerator\Enum;
 
 /**
  * Unit test for the Enum class.

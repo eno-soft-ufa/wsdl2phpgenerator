@@ -3,7 +3,7 @@
 namespace src\Functional;
 
 
-use Wsdl2PhpGenerator\Tests\Functional\FunctionalTestCase;
+use EnoWsdl2PhpGenerator\Tests\Functional\FunctionalTestCase;
 
 /**
  * Test case to ensure that we support inheritance for simple types.

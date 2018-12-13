@@ -1,13 +1,13 @@
 <?php
 
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 use InvalidArgumentException;
 use Symfony\Component\OptionsResolver\Exception\InvalidOptionsException;
 use Symfony\Component\OptionsResolver\Options;
 use Symfony\Component\OptionsResolver\OptionsResolver;
 use Symfony\Component\OptionsResolver\OptionsResolverInterface;
-use Wsdl2PhpGenerator\ConfigInterface;
+use EnoWsdl2PhpGenerator\ConfigInterface;
 
 /**
  * This class contains configurable key/value pairs.

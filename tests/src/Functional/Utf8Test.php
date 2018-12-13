@@ -1,6 +1,6 @@
 <?php
 
-namespace Wsdl2PhpGenerator\Tests\Functional;
+namespace EnoWsdl2PhpGenerator\Tests\Functional;
 
 /**
  * Test handling of UTF8 names.

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Tests\Functional;
+namespace EnoWsdl2PhpGenerator\Tests\Functional;
 
 /**
  * Test to ensure that references to additional files from the WSDL are resolved as expected.

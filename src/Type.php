@@ -3,9 +3,9 @@
 /**
  * @package Wsdl2PhpGenerator
  */
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
-use Wsdl2PhpGenerator\PhpSource\PhpClass;
+use EnoWsdl2PhpGenerator\PhpSource\PhpClass;
 
 /**
  * Type is an abstract baseclass for all types in the wsdl

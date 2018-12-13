@@ -1,9 +1,9 @@
 <?php
 
-namespace Wsdl2PhpGenerator\Tests\Unit;
+namespace EnoWsdl2PhpGenerator\Tests\Unit;
 
-use Wsdl2PhpGenerator\ArrayType;
-use Wsdl2PhpGenerator\Config;
+use EnoWsdl2PhpGenerator\ArrayType;
+use EnoWsdl2PhpGenerator\Config;
 
 /**
  * Unit test for the ArrayType class.

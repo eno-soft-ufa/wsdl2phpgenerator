@@ -2,10 +2,10 @@
 /**
  * @package wsdl2phpTest
  */
-namespace Wsdl2PhpGenerator\Tests\Unit;
+namespace EnoWsdl2PhpGenerator\Tests\Unit;
 
 use PHPUnit_Framework_TestCase;
-use Wsdl2PhpGenerator\Validator;
+use EnoWsdl2PhpGenerator\Validator;
 
 /**
  * Test class for Validator.

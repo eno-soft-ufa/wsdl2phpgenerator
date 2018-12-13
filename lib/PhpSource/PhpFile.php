@@ -2,7 +2,7 @@
 /**
  * @package phpSource
  */
-namespace Wsdl2PhpGenerator\PhpSource;
+namespace EnoWsdl2PhpGenerator\PhpSource;
 
 use Exception;
 

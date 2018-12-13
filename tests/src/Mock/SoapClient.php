@@ -1,6 +1,6 @@
 <?php
 
-namespace Wsdl2PhpGenerator\Tests\Mock;
+namespace EnoWsdl2PhpGenerator\Tests\Mock;
 
 /**
  * Mock SoapClient implementation to use when testing.

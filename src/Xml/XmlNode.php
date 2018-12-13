@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Xml;
+namespace EnoWsdl2PhpGenerator\Xml;
 
 
 use DOMDocument;

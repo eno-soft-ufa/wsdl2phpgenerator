@@ -1,14 +1,14 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Xml;
+namespace EnoWsdl2PhpGenerator\Xml;
 
 
 use DOMDocument;
 use DOMElement;
 use Exception;
-use Wsdl2PhpGenerator\ConfigInterface;
-use Wsdl2PhpGenerator\StreamContextFactory;
+use EnoWsdl2PhpGenerator\ConfigInterface;
+use EnoWsdl2PhpGenerator\StreamContextFactory;
 
 /**
  * A SchemaDocument represents an XML element which contains type elements.

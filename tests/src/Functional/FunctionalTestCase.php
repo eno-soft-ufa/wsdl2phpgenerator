@@ -1,12 +1,12 @@
 <?php
-namespace Wsdl2PhpGenerator\Tests\Functional;
+namespace EnoWsdl2PhpGenerator\Tests\Functional;
 
 use RecursiveDirectoryIterator;
 use RecursiveIteratorIterator;
 use ReflectionClass;
-use Wsdl2PhpGenerator\Config;
-use Wsdl2PhpGenerator\Generator;
-use Wsdl2PhpGenerator\Tests\Unit\CodeGenerationTestCase;
+use EnoWsdl2PhpGenerator\Config;
+use EnoWsdl2PhpGenerator\Generator;
+use EnoWsdl2PhpGenerator\Tests\Unit\CodeGenerationTestCase;
 
 /**
  * Base class for functional tests for wsdl2phpgenerator.

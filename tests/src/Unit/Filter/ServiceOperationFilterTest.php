@@ -1,13 +1,13 @@
 <?php
-namespace Wsdl2PhpGenerator\Tests\Unit\Filter;
+namespace EnoWsdl2PhpGenerator\Tests\Unit\Filter;
 
-use Wsdl2PhpGenerator\ComplexType;
-use Wsdl2PhpGenerator\Config;
-use Wsdl2PhpGenerator\ConfigInterface;
-use Wsdl2PhpGenerator\Enum;
-use Wsdl2PhpGenerator\Filter\ServiceOperationFilter;
-use Wsdl2PhpGenerator\Operation;
-use Wsdl2PhpGenerator\Service;
+use EnoWsdl2PhpGenerator\ComplexType;
+use EnoWsdl2PhpGenerator\Config;
+use EnoWsdl2PhpGenerator\ConfigInterface;
+use EnoWsdl2PhpGenerator\Enum;
+use EnoWsdl2PhpGenerator\Filter\ServiceOperationFilter;
+use EnoWsdl2PhpGenerator\Operation;
+use EnoWsdl2PhpGenerator\Service;
 
 /**
  * Use test for the ServiceOperationFilter class.

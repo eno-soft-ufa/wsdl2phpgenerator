@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 /**
  * Factory class for creating stream contexts when accessing external resources.

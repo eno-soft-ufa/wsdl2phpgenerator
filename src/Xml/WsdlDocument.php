@@ -1,13 +1,13 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Xml;
+namespace EnoWsdl2PhpGenerator\Xml;
 
 
 use Exception;
 use SoapClient;
 use SoapFault;
-use Wsdl2PhpGenerator\ConfigInterface;
+use EnoWsdl2PhpGenerator\ConfigInterface;
 
 /**
  * The WSDL document represents a file which is used to access a SOAP service.

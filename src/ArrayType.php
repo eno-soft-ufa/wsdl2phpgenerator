@@ -3,12 +3,12 @@
 /**
  * @package Generator
  */
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 use \Exception;
-use Wsdl2PhpGenerator\PhpSource\PhpDocComment;
-use Wsdl2PhpGenerator\PhpSource\PhpDocElementFactory;
-use Wsdl2PhpGenerator\PhpSource\PhpFunction;
+use EnoWsdl2PhpGenerator\PhpSource\PhpDocComment;
+use EnoWsdl2PhpGenerator\PhpSource\PhpDocElementFactory;
+use EnoWsdl2PhpGenerator\PhpSource\PhpFunction;
 
 /**
  * ArrayType

@@ -1,11 +1,11 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Tests\Unit;
+namespace EnoWsdl2PhpGenerator\Tests\Unit;
 
 
-use Wsdl2PhpGenerator\Config;
-use Wsdl2PhpGenerator\StreamContextFactory;
+use EnoWsdl2PhpGenerator\Config;
+use EnoWsdl2PhpGenerator\StreamContextFactory;
 
 /**
  * Unit test for the stream context factory.

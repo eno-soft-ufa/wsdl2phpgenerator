@@ -3,12 +3,12 @@
 /**
  * @package Wsdl2PhpGenerator
  */
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 use \Exception;
-use Wsdl2PhpGenerator\PhpSource\PhpClass;
-use Wsdl2PhpGenerator\PhpSource\PhpFile;
-use Wsdl2PhpGenerator\PhpSource\PhpFunction;
+use EnoWsdl2PhpGenerator\PhpSource\PhpClass;
+use EnoWsdl2PhpGenerator\PhpSource\PhpFile;
+use EnoWsdl2PhpGenerator\PhpSource\PhpFunction;
 
 /**
  * Manages the output of php files from the generator

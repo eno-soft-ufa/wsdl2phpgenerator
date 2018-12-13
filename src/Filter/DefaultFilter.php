@@ -1,8 +1,8 @@
 <?php
-namespace Wsdl2PhpGenerator\Filter;
+namespace EnoWsdl2PhpGenerator\Filter;
 
 
-use Wsdl2PhpGenerator\Service;
+use EnoWsdl2PhpGenerator\Service;
 
 /**
  * Default filter implementation.

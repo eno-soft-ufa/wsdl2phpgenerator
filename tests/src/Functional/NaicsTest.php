@@ -1,5 +1,5 @@
 <?php
-namespace Wsdl2PhpGenerator\Tests\Functional;
+namespace EnoWsdl2PhpGenerator\Tests\Functional;
 
 use SoapFault;
 

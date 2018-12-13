@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 
-use Wsdl2PhpGenerator\PhpSource\PhpClass;
+use EnoWsdl2PhpGenerator\PhpSource\PhpClass;
 
 /**
  * Interface for classes where instances be used can generate a PHP class.

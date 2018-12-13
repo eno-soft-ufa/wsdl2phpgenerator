@@ -1,5 +1,5 @@
 <?php
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 // psr/log is intentionally not included with the project to keep dependencies
 // to a minimum but the interface is still used to define logging within the

@@ -1,6 +1,6 @@
 <?php
 
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 /**
  * The config interface which implemented represents

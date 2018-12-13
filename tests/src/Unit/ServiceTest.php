@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Wsdl2PhpGenerator\Tests\Unit;
+namespace EnoWsdl2PhpGenerator\Tests\Unit;
 
 
-use Wsdl2PhpGenerator\Config;
-use Wsdl2PhpGenerator\Service;
-use Wsdl2PhpGenerator\Tests\Functional\FunctionalTestCase;
+use EnoWsdl2PhpGenerator\Config;
+use EnoWsdl2PhpGenerator\Service;
+use EnoWsdl2PhpGenerator\Tests\Functional\FunctionalTestCase;
 
 /**
  * Unit test for configuration of the SoapClient.

@@ -1,8 +1,8 @@
 <?php
 
-namespace Wsdl2PhpGenerator\Tests\Functional;
+namespace EnoWsdl2PhpGenerator\Tests\Functional;
 
-use Wsdl2PhpGenerator\Config;
+use EnoWsdl2PhpGenerator\Config;
 
 /**
  * Test case to ensure that we can use same Generator instance multiple times.

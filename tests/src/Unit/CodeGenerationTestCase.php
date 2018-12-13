@@ -1,14 +1,14 @@
 <?php
 
-namespace Wsdl2PhpGenerator\Tests\Unit;
+namespace EnoWsdl2PhpGenerator\Tests\Unit;
 
 use PHPUnit_Framework_TestCase;
 use ReflectionClass;
 use ReflectionMethod;
 use ReflectionParameter;
 use ReflectionProperty;
-use Wsdl2PhpGenerator\ClassGenerator;
-use Wsdl2PhpGenerator\Type;
+use EnoWsdl2PhpGenerator\ClassGenerator;
+use EnoWsdl2PhpGenerator\Type;
 
 /**
  * Base class for testing code generation.

@@ -3,10 +3,10 @@
 /**
  * @package Wsdl2PhpGenerator
  */
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 use \InvalidArgumentException;
-use Wsdl2PhpGenerator\PhpSource\PhpClass;
+use EnoWsdl2PhpGenerator\PhpSource\PhpClass;
 
 /**
  * Enum represents a simple type with enumerated values

@@ -1,13 +1,13 @@
 <?php
 
-namespace Wsdl2PhpGenerator\Filter;
+namespace EnoWsdl2PhpGenerator\Filter;
 
-use Wsdl2PhpGenerator\ComplexType;
-use Wsdl2PhpGenerator\ConfigInterface;
-use Wsdl2PhpGenerator\Enum;
-use Wsdl2PhpGenerator\Service;
-use Wsdl2PhpGenerator\Type;
-use Wsdl2PhpGenerator\Variable;
+use EnoWsdl2PhpGenerator\ComplexType;
+use EnoWsdl2PhpGenerator\ConfigInterface;
+use EnoWsdl2PhpGenerator\Enum;
+use EnoWsdl2PhpGenerator\Service;
+use EnoWsdl2PhpGenerator\Type;
+use EnoWsdl2PhpGenerator\Variable;
 
 /**
  * Filter that leaves only selected operations and types used by these

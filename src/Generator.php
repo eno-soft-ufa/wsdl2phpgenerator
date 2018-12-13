@@ -3,12 +3,12 @@
  * @package Wsdl2PhpGenerator
  */
 
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
 use \Exception;
 use Psr\Log\LoggerInterface;
-use Wsdl2PhpGenerator\Filter\FilterFactory;
-use Wsdl2PhpGenerator\Xml\WsdlDocument;
+use EnoWsdl2PhpGenerator\Filter\FilterFactory;
+use EnoWsdl2PhpGenerator\Xml\WsdlDocument;
 
 /**
  * Class that contains functionality for generating classes from a wsdl file

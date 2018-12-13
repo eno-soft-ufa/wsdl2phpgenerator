@@ -3,13 +3,13 @@
 /**
  * @package Wsdl2PhpGenerator
  */
-namespace Wsdl2PhpGenerator;
+namespace EnoWsdl2PhpGenerator;
 
-use Wsdl2PhpGenerator\PhpSource\PhpClass;
-use Wsdl2PhpGenerator\PhpSource\PhpDocComment;
-use Wsdl2PhpGenerator\PhpSource\PhpDocElementFactory;
-use Wsdl2PhpGenerator\PhpSource\PhpFunction;
-use Wsdl2PhpGenerator\PhpSource\PhpVariable;
+use EnoWsdl2PhpGenerator\PhpSource\PhpClass;
+use EnoWsdl2PhpGenerator\PhpSource\PhpDocComment;
+use EnoWsdl2PhpGenerator\PhpSource\PhpDocElementFactory;
+use EnoWsdl2PhpGenerator\PhpSource\PhpFunction;
+use EnoWsdl2PhpGenerator\PhpSource\PhpVariable;
 
 /**
  * Service represents the service in the wsdl
